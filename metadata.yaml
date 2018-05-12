@@ -1,0 +1,33 @@
+_repo: Gallipoli-Diary-Volume-I_19317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Ian
+    alias: Hamilton, Ian Standish Monteith, Sir
+    birthdate: 1853
+    deathdate: 1947
+    gutenberg_agent_id: '8595'
+    url: http://www.gutenberg.org/2009/agents/8595
+    wikipedia: http://en.wikipedia.org/wiki/Ian_Standish_Monteith_Hamilton
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula'
+- !lcsh 'Gallipoli Peninsula (Turkey) -- History, Military'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- !lcsh 'Hamilton, Ian, Sir, 1853-1947 -- Diaries'
+- !lcsh 'Generals -- Great Britain -- Diaries'
+title: Gallipoli Diary,  Volume 1
+url: http://www.gutenberg.org/ebooks/19317
